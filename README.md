@@ -1,2 +1,2 @@
-# Stardust-Mines-
-A place where StarDust Exists 
+# MAGD150
+Files for MAGD 
