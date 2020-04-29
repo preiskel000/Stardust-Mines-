@@ -8,4 +8,4 @@ Tak's inclued things like **ellipsemode**
 **mouseX** and **mouseY**
 #### _Assignment 6_
 Tasks included things like **scale** 
-**rotate** and **push** and **pop* 
+**rotate** and **push** and **pop** 
