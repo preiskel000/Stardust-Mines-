@@ -4,7 +4,7 @@ Each assignment had different tasks
 Tasks included things like the **mouseClikcked** function, 
 **mousePressed** function, and a **for()** or **whlie()** loop 
 ### _Assignment 5_
-Tak's include things like the **ellipsemode,**
+Tak's included things like the **ellipsemode,**
 **mouseX,** and **mouseY**
 #### _Assignment 6_
 Tasks included things like **scale** 
